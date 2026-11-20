@@ -12,12 +12,5 @@
     "technologies": "FlutterFlow, CSS",
     "role": "Frontend Developer",
     "link": "https://app.flutterflow.io/run/f7iLaTDTQ7DnQ8RSApDn"
-  },
-  {
-    "title": "Sample Web Application",
-    "description": "An experimental web page exploring modern web concepts.",
-    "technologies": "HTML, JavaScript",
-    "role": "Developer",
-    "link": "#"
   }
 ]
