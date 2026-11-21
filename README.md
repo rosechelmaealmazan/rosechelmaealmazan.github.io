@@ -23,4 +23,7 @@ A mobile-friendly web and mobile application built with FlutterFlow and Firebase
 2. Open a terminal inside the project folder and install dependencies:
    ```bash
    flutter pub get
-   
+
+## Author
+- **Name:** Rosechel Mae V. Almazan
+- **Section:** BSINTE 2A
